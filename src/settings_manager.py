@@ -20,6 +20,7 @@ class Keys(StrEnum):
     normalize_type = auto()
     settings_path = auto()
     temp_path = auto()
+    max_jobs = auto()
 
     
 
@@ -44,8 +45,10 @@ class _Settings():
         self.data[key] = new_value
         self._save_settings()
         
-    def get_value(self, key:str) -> str:
+    def get_value(self, key:str):
         self._load_settings()
-        return self.data[key]
+        if key in self.data:
+            return self.data[key]
+        return None
     
 Settings = _Settings()

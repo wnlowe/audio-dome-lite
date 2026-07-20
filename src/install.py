@@ -79,7 +79,9 @@ def install_reg():
     for prefix, label, mode in submenu_items:
         item_path = f"{parent_key}\\shell\\{prefix}"
         command_path = item_path + r"\command"
-        reg.SetValue(reg.HKEY_CURRENT_USER, item_path, reg.REG_SZ, label)
+        item_key = reg.CreateKeyEx(reg.HKEY_CURRENT_USER, item_path, 0, reg.KEY_SET_VALUE)
+        reg.SetValueEx(item_key, None, 0, reg.REG_SZ, label)
+        reg.SetValueEx(item_key, "MultiSelectModel", 0, reg.REG_SZ, "Player")
         command = f'"{python_exe}" "{script_path}" "{mode}" "%1"'
         reg.SetValue(reg.HKEY_CURRENT_USER, command_path, reg.REG_SZ, command)
 
