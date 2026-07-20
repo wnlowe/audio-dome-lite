@@ -75,6 +75,7 @@ def install_reg():
     parent = reg.CreateKeyEx(reg.HKEY_CURRENT_USER, parent_key, 0, reg.KEY_SET_VALUE)
     reg.SetValueEx(parent, "MUIVerb", 0, reg.REG_SZ, menu_label)
     reg.SetValueEx(parent, "subcommands", 0, reg.REG_SZ, "")
+    reg.SetValueEx(parent, "MultiSelectModel", 0, reg.REG_SZ, "Player")
     
     for prefix, label, mode in submenu_items:
         item_path = f"{parent_key}\\shell\\{prefix}"
