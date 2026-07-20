@@ -2,10 +2,11 @@ import shutil
 import subprocess
 import sys
 import os
-import yaml
+import json
 import winreg as reg
 from pathlib import Path
 
+PROJECT_DIR = os.path.join(os.environ["LOCALAPPDATA"], "audio-dome-lite")
 
 def check_ffmpeg(cmd='ffmpeg'):
     path = shutil.which(cmd)
@@ -58,9 +59,9 @@ def ensure_ffmpeg():
         return False
     
 def install_reg():
-    project_dir = os.path.join(os.environ["LOCALAPPDATA"], "audio-dome-lite")
-    python_exe = os.path.join(project_dir, ".venv", "Scripts", "pythonw.exe")
-    script_path = os.path.join(project_dir, "src", "actions.py")
+    
+    python_exe = os.path.join(PROJECT_DIR, ".venv", "Scripts", "pythonw.exe")
+    script_path = os.path.join(PROJECT_DIR, "src", "actions.py")
     parent_key = r"Software\Classes\SystemFileAssociations\.wav\shell\AudioDomeLite"
     menu_label = "Audio Dome Lite"
     
@@ -83,7 +84,23 @@ def install_reg():
         reg.SetValue(reg.HKEY_CURRENT_USER, command_path, reg.REG_SZ, command)
 
 def initialize_settings():
-    pass
+    settings_path = Path(os.path.join(PROJECT_DIR, "settings.json"))
+    temp_path = os.path.join(PROJECT_DIR, "temp")
+    if settings_path.exists():
+        return
+    data = {
+        "gain" : "-6.0",
+        "mono_mode" : "sum",
+        "normalize_level" : "-2.0",
+        "normalize_type" : "tp",
+        "settings_path" : str(settings_path),
+        "temp_path" : temp_path
+    }
+    settings_path.write_text(
+        json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    
+    os.makedirs(os.path.join(PROJECT_DIR, "temp"), exist_ok=True)
 
 def main() -> bool:
     ffmpeg = ensure_ffmpeg()
@@ -93,6 +110,7 @@ def main() -> bool:
     install_reg()
     
     initialize_settings()
+    
     return True
 
 if __name__ == '__main__':
