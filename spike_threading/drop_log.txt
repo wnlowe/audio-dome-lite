@@ -1,0 +1,172 @@
+[2026-07-23T15:44:06.451015+00:00] server started pid=46604 [integration smoke test]
+[2026-07-23T15:44:06.461394+00:00] PumpMessages starting
+[2026-07-23T15:44:09.931655+00:00] idle 3.5s >= 3s cap, requesting quit
+[2026-07-23T15:44:09.931655+00:00] PumpMessages returned, shutting down
+[2026-07-23T15:44:22.613014+00:00] server started pid=49560 [integration smoke test]
+[2026-07-23T15:44:22.633569+00:00] PumpMessages starting
+[2026-07-23T15:44:25.635119+00:00] idle 3.0s >= 3s cap, requesting quit
+[2026-07-23T15:44:25.636135+00:00] PumpMessages returned, shutting down
+[2026-07-23T15:44:29.763632+00:00] server started pid=20704 [integration smoke test]
+[2026-07-23T15:44:29.783661+00:00] PumpMessages starting
+[2026-07-23T15:44:32.785365+00:00] idle 3.0s >= 3s cap, requesting quit
+[2026-07-23T15:44:32.786922+00:00] PumpMessages returned, shutting down
+[2026-07-23T16:08:35.270796+00:00] server started pid=22832
+[2026-07-23T16:08:35.278197+00:00] PumpMessages starting
+[2026-07-23T16:08:35.477172+00:00] Tk mainloop starting
+[2026-07-23T16:08:36.125543+00:00] DROP count=1000 extract=13.1ms pid=22832
+[2026-07-23T16:08:53.311982+00:00] server started pid=40956
+[2026-07-23T16:08:53.320275+00:00] PumpMessages starting
+[2026-07-23T16:08:53.511408+00:00] Tk mainloop starting
+[2026-07-23T16:08:54.229637+00:00] DROP count=1000 extract=15.7ms pid=40956
+[2026-07-23T16:09:23.334248+00:00] idle 30.0s >= 30s cap, requesting quit
+[2026-07-23T16:09:23.334800+00:00] PumpMessages returned, shutting down
+[2026-07-23T16:09:48.667796+00:00] server started pid=35928
+[2026-07-23T16:09:48.674847+00:00] PumpMessages starting
+[2026-07-23T16:09:48.886466+00:00] Tk mainloop starting
+[2026-07-23T16:09:49.505889+00:00] DROP count=1000 extract=14.0ms pid=35928
+[2026-07-23T16:10:18.687091+00:00] idle 30.0s >= 30s cap, requesting quit
+[2026-07-23T16:10:18.688126+00:00] PumpMessages returned, shutting down
+[2026-07-23T16:13:41.295698+00:00] server started pid=16788
+[2026-07-23T16:13:41.304340+00:00] PumpMessages starting
+[2026-07-23T16:13:41.519277+00:00] Tk mainloop starting
+[2026-07-23T16:13:42.164026+00:00] DROP count=1000 extract=15.0ms pid=16788
+[2026-07-23T16:17:03.568623+00:00] server started pid=36124
+[2026-07-23T16:17:03.577897+00:00] PumpMessages starting
+[2026-07-23T16:17:03.767461+00:00] Tk mainloop starting
+[2026-07-23T16:17:33.593572+00:00] idle 30.0s >= 30s cap, requesting quit
+[2026-07-23T16:17:33.596102+00:00] PumpMessages returned, shutting down
+[2026-07-23T16:18:01.697045+00:00] server started pid=32828
+[2026-07-23T16:18:01.706145+00:00] PumpMessages starting
+[2026-07-23T16:18:01.898490+00:00] Tk mainloop starting
+[2026-07-23T16:18:31.721337+00:00] idle 30.0s >= 30s cap, requesting quit
+[2026-07-23T16:18:31.724346+00:00] PumpMessages returned, shutting down
+[2026-07-23T16:19:56.602257+00:00] server started pid=24100
+[2026-07-23T16:19:56.612189+00:00] PumpMessages starting
+[2026-07-23T16:19:56.802381+00:00] Tk mainloop starting
+[2026-07-23T16:20:05.532921+00:00] DROP count=1000 extract=13.6ms pid=24100
+[2026-07-23T16:20:16.651163+00:00] DROP count=1 extract=5.7ms pid=24100
+[2026-07-23T16:20:26.627194+00:00] idle 30.0s >= 30s cap, requesting quit
+[2026-07-23T16:20:26.628717+00:00] PumpMessages returned, shutting down
+[2026-07-23T16:20:31.632368+00:00] server started pid=39832
+[2026-07-23T16:20:31.640887+00:00] PumpMessages starting
+[2026-07-23T16:20:31.829521+00:00] Tk mainloop starting
+[2026-07-23T16:20:40.406086+00:00] DROP count=1 extract=6.4ms pid=39832
+[2026-07-23T16:21:01.652224+00:00] idle 30.0s >= 30s cap, requesting quit
+[2026-07-23T16:21:01.653746+00:00] PumpMessages returned, shutting down
+[2026-07-23T16:27:53.869452+00:00] PumpMessages starting
+[2026-07-23T16:27:55.134163+00:00] _poll: got batch of 7 from queue, calling _show_batch
+[2026-07-23T16:27:55.203654+00:00] Toplevel created: winfo_children=1 viewable=1 ismapped=1 geometry=129x110+156+156
+[2026-07-23T16:27:56.870874+00:00] idle 3.0s >= 3s cap, requesting quit
+[2026-07-23T16:27:56.870874+00:00] PumpMessages returned, shutting down
+[2026-07-23T16:31:25.687959+00:00] server started pid=33484
+[2026-07-23T16:31:25.695962+00:00] PumpMessages starting
+[2026-07-23T16:31:25.897932+00:00] Tk mainloop starting
+[2026-07-23T16:31:26.091166+00:00] DROP count=1 extract=9.8ms pid=33484
+[2026-07-23T16:31:55.709858+00:00] idle 30.0s >= 30s cap, requesting quit
+[2026-07-23T16:31:55.711381+00:00] PumpMessages returned, shutting down
+[2026-07-23T16:33:25.841457+00:00] PumpMessages starting
+[2026-07-23T16:33:27.115033+00:00] _poll: got batch of 7 from queue, calling _show_batch
+[2026-07-23T16:33:27.188039+00:00] Toplevel created: winfo_children=1 viewable=1 ismapped=1 geometry=129x110+104+104
+[2026-07-23T16:33:28.281329+00:00] _poll heartbeat tick=20
+[2026-07-23T16:33:30.459838+00:00] _poll heartbeat tick=40
+[2026-07-23T16:33:30.844134+00:00] idle 5.0s >= 5s cap, requesting quit
+[2026-07-23T16:33:30.844134+00:00] PumpMessages returned, shutting down
+[2026-07-23T16:34:10.415199+00:00] server started pid=48604
+[2026-07-23T16:34:10.423220+00:00] PumpMessages starting
+[2026-07-23T16:34:10.636700+00:00] Tk mainloop starting
+[2026-07-23T16:34:10.685012+00:00] DROP count=1 extract=15.0ms pid=48604
+[2026-07-23T16:34:12.829264+00:00] _poll heartbeat tick=20
+[2026-07-23T16:34:15.008401+00:00] _poll heartbeat tick=40
+[2026-07-23T16:34:17.198249+00:00] _poll heartbeat tick=60
+[2026-07-23T16:34:19.383188+00:00] _poll heartbeat tick=80
+[2026-07-23T16:34:21.564116+00:00] _poll heartbeat tick=100
+[2026-07-23T16:34:23.743159+00:00] _poll heartbeat tick=120
+[2026-07-23T16:34:25.924595+00:00] _poll heartbeat tick=140
+[2026-07-23T16:34:28.091241+00:00] _poll heartbeat tick=160
+[2026-07-23T16:34:30.272783+00:00] _poll heartbeat tick=180
+[2026-07-23T16:34:32.449764+00:00] _poll heartbeat tick=200
+[2026-07-23T16:34:34.634263+00:00] _poll heartbeat tick=220
+[2026-07-23T16:34:36.814804+00:00] _poll heartbeat tick=240
+[2026-07-23T16:34:39.003660+00:00] _poll heartbeat tick=260
+[2026-07-23T16:34:40.435986+00:00] idle 30.0s >= 30s cap, requesting quit
+[2026-07-23T16:34:40.436993+00:00] PumpMessages returned, shutting down
+[2026-07-23T16:37:27.768162+00:00] server started pid=34088
+[2026-07-23T16:37:27.776677+00:00] PumpMessages starting
+[2026-07-23T16:37:27.982821+00:00] Tk mainloop starting
+[2026-07-23T16:37:28.029594+00:00] DROP count=1 extract=12.9ms pid=34088
+[2026-07-23T16:37:28.088687+00:00] _poll: got batch of 1 from queue, calling _show_batch
+[2026-07-23T16:37:28.221561+00:00] Toplevel created: winfo_children=1 viewable=1 ismapped=1 geometry=129x110+26+26
+[2026-07-23T16:37:30.301807+00:00] _poll heartbeat tick=20
+[2026-07-23T16:37:32.483629+00:00] _poll heartbeat tick=40
+[2026-07-23T16:37:34.662687+00:00] _poll heartbeat tick=60
+[2026-07-23T16:37:36.845251+00:00] _poll heartbeat tick=80
+[2026-07-23T16:37:39.025161+00:00] _poll heartbeat tick=100
+[2026-07-23T16:37:41.206067+00:00] _poll heartbeat tick=120
+[2026-07-23T16:37:43.385109+00:00] _poll heartbeat tick=140
+[2026-07-23T16:37:45.566206+00:00] _poll heartbeat tick=160
+[2026-07-23T16:37:47.742529+00:00] _poll heartbeat tick=180
+[2026-07-23T16:37:49.913221+00:00] _poll heartbeat tick=200
+[2026-07-23T16:37:52.091956+00:00] _poll heartbeat tick=220
+[2026-07-23T16:37:54.270395+00:00] _poll heartbeat tick=240
+[2026-07-23T16:37:56.449599+00:00] _poll heartbeat tick=260
+[2026-07-23T16:37:58.627879+00:00] _poll heartbeat tick=280
+[2026-07-23T16:37:58.790523+00:00] idle 30.8s >= 30s cap, requesting quit
+[2026-07-23T16:37:58.791568+00:00] PumpMessages returned, shutting down
+[2026-07-23T16:39:07.441665+00:00] server started pid=32500
+[2026-07-23T16:39:07.453715+00:00] PumpMessages starting
+[2026-07-23T16:39:07.654990+00:00] Tk mainloop starting
+[2026-07-23T16:39:08.337980+00:00] DROP count=1000 extract=13.5ms pid=32500
+[2026-07-23T16:39:08.409580+00:00] _poll: got batch of 1000 from queue, calling _show_batch
+[2026-07-23T16:39:08.510050+00:00] Toplevel created: winfo_children=1 viewable=1 ismapped=1 geometry=147x110+130+130
+[2026-07-23T16:39:09.928575+00:00] _poll heartbeat tick=20
+[2026-07-23T16:39:12.064301+00:00] _poll heartbeat tick=40
+[2026-07-23T16:40:04.704748+00:00] server started pid=35060
+[2026-07-23T16:40:04.713987+00:00] PumpMessages starting
+[2026-07-23T16:40:04.914033+00:00] Tk mainloop starting
+[2026-07-23T16:40:04.969478+00:00] DROP count=1 extract=14.4ms pid=35060
+[2026-07-23T16:40:05.015941+00:00] _poll: got batch of 1 from queue, calling _show_batch
+[2026-07-23T16:40:05.151262+00:00] Toplevel created: winfo_children=1 viewable=1 ismapped=1 geometry=129x110+234+234
+[2026-07-23T16:40:07.226824+00:00] _poll heartbeat tick=20
+[2026-07-23T16:40:09.401792+00:00] _poll heartbeat tick=40
+[2026-07-23T16:40:11.586241+00:00] _poll heartbeat tick=60
+[2026-07-23T16:40:13.762055+00:00] _poll heartbeat tick=80
+[2026-07-23T16:40:15.946507+00:00] _poll heartbeat tick=100
+[2026-07-23T16:40:18.122559+00:00] _poll heartbeat tick=120
+[2026-07-23T16:40:20.300122+00:00] _poll heartbeat tick=140
+[2026-07-23T16:40:22.477756+00:00] _poll heartbeat tick=160
+[2026-07-23T16:40:24.659487+00:00] _poll heartbeat tick=180
+[2026-07-23T16:40:26.829266+00:00] _poll heartbeat tick=200
+[2026-07-23T16:40:29.002527+00:00] _poll heartbeat tick=220
+[2026-07-23T16:40:31.179646+00:00] _poll heartbeat tick=240
+[2026-07-23T16:40:33.362697+00:00] _poll heartbeat tick=260
+[2026-07-23T16:40:35.539246+00:00] _poll heartbeat tick=280
+[2026-07-23T16:40:35.725821+00:00] idle 30.8s >= 30s cap, requesting quit
+[2026-07-23T16:40:35.727379+00:00] PumpMessages returned, shutting down
+[2026-07-23T16:41:18.524981+00:00] server started pid=37484
+[2026-07-23T16:41:18.534982+00:00] PumpMessages starting
+[2026-07-23T16:41:18.726298+00:00] Tk mainloop starting
+[2026-07-23T16:41:18.777822+00:00] DROP count=1 extract=12.7ms pid=37484
+[2026-07-23T16:41:18.828242+00:00] _poll: got batch of 1 from queue, calling _show_batch
+[2026-07-23T16:41:18.948542+00:00] Toplevel created: winfo_children=1 viewable=1 ismapped=1 geometry=129x110+52+52
+[2026-07-23T16:41:21.018053+00:00] _poll heartbeat tick=20
+[2026-07-23T16:41:23.195035+00:00] _poll heartbeat tick=40
+[2026-07-23T16:41:25.379161+00:00] _poll heartbeat tick=60
+[2026-07-23T16:41:26.951010+00:00] DROP count=1 extract=4.5ms pid=37484
+[2026-07-23T16:41:27.012128+00:00] _poll: got batch of 1 from queue, calling _show_batch
+[2026-07-23T16:41:27.110200+00:00] Toplevel created: winfo_children=2 viewable=1 ismapped=1 geometry=129x110+78+78
+[2026-07-23T16:41:27.648423+00:00] _poll heartbeat tick=80
+[2026-07-23T16:41:29.829150+00:00] _poll heartbeat tick=100
+[2026-07-23T16:41:31.991946+00:00] _poll heartbeat tick=120
+[2026-07-23T16:41:34.172066+00:00] _poll heartbeat tick=140
+[2026-07-23T16:41:36.356934+00:00] _poll heartbeat tick=160
+[2026-07-23T16:41:38.548711+00:00] _poll heartbeat tick=180
+[2026-07-23T16:41:40.739080+00:00] _poll heartbeat tick=200
+[2026-07-23T16:41:42.931549+00:00] _poll heartbeat tick=220
+[2026-07-23T16:41:45.119101+00:00] _poll heartbeat tick=240
+[2026-07-23T16:41:47.313252+00:00] _poll heartbeat tick=260
+[2026-07-23T16:41:49.505792+00:00] _poll heartbeat tick=280
+[2026-07-23T16:41:51.696772+00:00] _poll heartbeat tick=300
+[2026-07-23T16:41:53.870480+00:00] _poll heartbeat tick=320
+[2026-07-23T16:41:56.054922+00:00] _poll heartbeat tick=340
+[2026-07-23T16:41:57.551802+00:00] idle 30.6s >= 30s cap, requesting quit
+[2026-07-23T16:41:57.553338+00:00] PumpMessages returned, shutting down

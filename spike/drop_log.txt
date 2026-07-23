@@ -1,0 +1,229 @@
+[2026-07-23T01:56:58.010684+00:00] server started pid=38372
+[2026-07-23T01:56:58.053997+00:00] DROP via=SHCreateShellItemArrayFromDataObject count=15
+[2026-07-23T01:56:58.055002+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_15.wav
+[2026-07-23T01:56:58.056001+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_14.wav
+[2026-07-23T01:56:58.056001+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_13.wav
+[2026-07-23T01:56:58.064611+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_12.wav
+[2026-07-23T01:56:58.065632+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_11.wav
+[2026-07-23T01:56:58.066625+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_10.wav
+[2026-07-23T01:56:58.066625+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_09.wav
+[2026-07-23T01:56:58.067621+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_08.wav
+[2026-07-23T01:56:58.067621+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_07.wav
+[2026-07-23T01:56:58.067621+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_06.wav
+[2026-07-23T01:56:58.068620+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_05.wav
+[2026-07-23T01:56:58.068620+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_04.wav
+[2026-07-23T01:56:58.069624+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_03.wav
+[2026-07-23T01:56:58.069624+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_02.wav
+[2026-07-23T01:56:58.069624+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_01.wav
+[2026-07-23T01:57:48.897941+00:00] DROP via=SHCreateShellItemArrayFromDataObject count=100
+[2026-07-23T01:57:48.897941+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_100.wav
+[2026-07-23T01:57:48.898939+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_099.wav
+[2026-07-23T01:57:48.898939+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_098.wav
+[2026-07-23T01:57:48.899937+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_097.wav
+[2026-07-23T01:57:48.899937+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_096.wav
+[2026-07-23T01:57:48.900939+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_095.wav
+[2026-07-23T01:57:48.900939+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_094.wav
+[2026-07-23T01:57:48.900939+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_093.wav
+[2026-07-23T01:57:48.902025+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_092.wav
+[2026-07-23T01:57:48.902025+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_091.wav
+[2026-07-23T01:57:48.903026+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_090.wav
+[2026-07-23T01:57:48.903026+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_089.wav
+[2026-07-23T01:57:48.904027+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_088.wav
+[2026-07-23T01:57:48.904027+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_087.wav
+[2026-07-23T01:57:48.905026+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_086.wav
+[2026-07-23T01:57:48.905026+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_085.wav
+[2026-07-23T01:57:48.906024+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_084.wav
+[2026-07-23T01:57:48.906024+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_083.wav
+[2026-07-23T01:57:48.906024+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_082.wav
+[2026-07-23T01:57:48.907026+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_081.wav
+[2026-07-23T01:57:48.907026+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_080.wav
+[2026-07-23T01:57:48.908024+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_079.wav
+[2026-07-23T01:57:48.908024+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_078.wav
+[2026-07-23T01:57:48.909024+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_077.wav
+[2026-07-23T01:57:48.909024+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_076.wav
+[2026-07-23T01:57:48.910024+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_075.wav
+[2026-07-23T01:57:48.910024+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_074.wav
+[2026-07-23T01:57:48.911025+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_073.wav
+[2026-07-23T01:57:48.911025+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_072.wav
+[2026-07-23T01:57:48.911025+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_071.wav
+[2026-07-23T01:57:48.911025+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_070.wav
+[2026-07-23T01:57:48.912531+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_069.wav
+[2026-07-23T01:57:48.912531+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_068.wav
+[2026-07-23T01:57:48.913540+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_067.wav
+[2026-07-23T01:57:48.913540+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_066.wav
+[2026-07-23T01:57:48.914540+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_065.wav
+[2026-07-23T01:57:48.914540+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_064.wav
+[2026-07-23T01:57:48.915542+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_063.wav
+[2026-07-23T01:57:48.915542+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_062.wav
+[2026-07-23T01:57:48.916540+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_061.wav
+[2026-07-23T01:57:48.916540+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_060.wav
+[2026-07-23T01:57:48.916540+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_059.wav
+[2026-07-23T01:57:48.917540+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_058.wav
+[2026-07-23T01:57:48.917540+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_057.wav
+[2026-07-23T01:57:48.918540+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_056.wav
+[2026-07-23T01:57:48.918540+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_055.wav
+[2026-07-23T01:57:48.918540+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_054.wav
+[2026-07-23T01:57:48.920047+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_053.wav
+[2026-07-23T01:57:48.920047+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_052.wav
+[2026-07-23T01:57:48.920564+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_051.wav
+[2026-07-23T01:57:48.920564+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_050.wav
+[2026-07-23T01:57:48.921573+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_049.wav
+[2026-07-23T01:57:48.921573+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_048.wav
+[2026-07-23T01:57:48.922573+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_047.wav
+[2026-07-23T01:57:48.922573+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_046.wav
+[2026-07-23T01:57:48.922573+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_045.wav
+[2026-07-23T01:57:48.923732+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_044.wav
+[2026-07-23T01:57:48.923732+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_043.wav
+[2026-07-23T01:57:48.923732+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_042.wav
+[2026-07-23T01:57:48.925243+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_041.wav
+[2026-07-23T01:57:48.925243+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_040.wav
+[2026-07-23T01:57:48.925243+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_039.wav
+[2026-07-23T01:57:48.926252+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_038.wav
+[2026-07-23T01:57:48.926252+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_037.wav
+[2026-07-23T01:57:48.927251+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_036.wav
+[2026-07-23T01:57:48.927251+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_035.wav
+[2026-07-23T01:57:48.928351+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_034.wav
+[2026-07-23T01:57:48.928351+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_033.wav
+[2026-07-23T01:57:48.929350+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_032.wav
+[2026-07-23T01:57:48.929350+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_031.wav
+[2026-07-23T01:57:48.929350+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_030.wav
+[2026-07-23T01:57:48.930351+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_029.wav
+[2026-07-23T01:57:48.930351+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_028.wav
+[2026-07-23T01:57:48.931349+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_027.wav
+[2026-07-23T01:57:48.931349+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_026.wav
+[2026-07-23T01:57:48.931349+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_025.wav
+[2026-07-23T01:57:48.932657+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_024.wav
+[2026-07-23T01:57:48.932657+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_023.wav
+[2026-07-23T01:57:48.932657+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_022.wav
+[2026-07-23T01:57:48.933659+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_021.wav
+[2026-07-23T01:57:48.933659+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_020.wav
+[2026-07-23T01:57:48.934659+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_019.wav
+[2026-07-23T01:57:48.934659+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_018.wav
+[2026-07-23T01:57:48.935657+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_017.wav
+[2026-07-23T01:57:48.935657+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_016.wav
+[2026-07-23T01:57:48.935657+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_015.wav
+[2026-07-23T01:57:48.936711+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_014.wav
+[2026-07-23T01:57:48.936711+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_013.wav
+[2026-07-23T01:57:48.937711+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_012.wav
+[2026-07-23T01:57:48.937711+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_011.wav
+[2026-07-23T01:57:48.937711+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_010.wav
+[2026-07-23T01:57:48.938708+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_009.wav
+[2026-07-23T01:57:48.938708+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_008.wav
+[2026-07-23T01:57:48.939684+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_007.wav
+[2026-07-23T01:57:48.939684+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_006.wav
+[2026-07-23T01:57:48.940709+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_005.wav
+[2026-07-23T01:57:48.941216+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_004.wav
+[2026-07-23T01:57:48.941216+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_003.wav
+[2026-07-23T01:57:48.941216+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_002.wav
+[2026-07-23T01:57:48.942226+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_100\spike_test_001.wav
+[2026-07-23T02:00:02.428775+00:00] DROP via=SHCreateShellItemArrayFromDataObject count=1
+[2026-07-23T02:00:02.429775+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_101\spike_test_003.wav
+[2026-07-23T02:00:29.075804+00:00] DROP via=SHCreateShellItemArrayFromDataObject count=1
+[2026-07-23T02:00:29.076801+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_007.wav
+[2026-07-23T02:00:48.188146+00:00] DROP via=SHCreateShellItemArrayFromDataObject count=1
+[2026-07-23T02:00:48.189164+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0008.wav
+[2026-07-23T02:02:08.351348+00:00] DROP via=SHCreateShellItemArrayFromDataObject count=1
+[2026-07-23T02:02:08.352347+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0007.wav
+[2026-07-23T02:03:58.754802+00:00] DROP via=SHCreateShellItemArrayFromDataObject count=15
+[2026-07-23T02:03:58.756321+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_04.wav
+[2026-07-23T02:03:58.756321+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_05.wav
+[2026-07-23T02:03:58.757334+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_06.wav
+[2026-07-23T02:03:58.758333+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_07.wav
+[2026-07-23T02:03:58.758333+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_08.wav
+[2026-07-23T02:03:58.759845+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_09.wav
+[2026-07-23T02:03:58.759845+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_10.wav
+[2026-07-23T02:03:58.761380+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_11.wav
+[2026-07-23T02:03:58.761380+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_12.wav
+[2026-07-23T02:03:58.762394+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_13.wav
+[2026-07-23T02:03:58.763392+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_14.wav
+[2026-07-23T02:03:58.763945+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_15.wav
+[2026-07-23T02:03:58.765028+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_01.wav
+[2026-07-23T02:03:58.765596+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_02.wav
+[2026-07-23T02:03:58.766134+00:00]     C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_15\spike_test_03.wav
+[2026-07-23T02:08:33.353710+00:00] server started pid=17832
+[2026-07-23T02:08:33.393922+00:00] DROP method=SHCreateShellItemArrayFromDataObject count=1
+[2026-07-23T02:08:33.394921+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0005.wav
+[2026-07-23T02:08:33.394921+00:00] DROP method=CF_HDROP+DragQueryFile FAILED: TypeError('The object is not a PyHANDLE object')
+[2026-07-23T02:12:22.416984+00:00] server started pid=37312
+[2026-07-23T02:12:22.461962+00:00] DROP method=SHCreateShellItemArrayFromDataObject count=1
+[2026-07-23T02:12:22.461962+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0006.wav
+[2026-07-23T02:12:22.462954+00:00] DROP method=CF_HDROP+DROPFILES count=1
+[2026-07-23T02:12:22.463953+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0006.wav
+[2026-07-23T02:27:42.098293+00:00] DROP method=SHCreateShellItemArrayFromDataObject count=1
+[2026-07-23T02:27:42.099306+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_005.wav
+[2026-07-23T02:27:42.100435+00:00] DROP method=CF_HDROP+DROPFILES count=1
+[2026-07-23T02:27:42.101433+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_005.wav
+[2026-07-23T02:29:50.596327+00:00] DROP method=SHCreateShellItemArrayFromDataObject count=300
+[2026-07-23T02:29:50.596840+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_009.wav
+[2026-07-23T02:29:50.597855+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_010.wav
+[2026-07-23T02:29:50.597855+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_011.wav
+[2026-07-23T02:29:50.598856+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_012.wav
+[2026-07-23T02:29:50.598856+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_013.wav
+[2026-07-23T02:29:50.599855+00:00]     [SHCreateShellItemArrayFromDataObject] ... and 295 more
+[2026-07-23T02:29:50.599855+00:00] DROP method=CF_HDROP+DROPFILES count=300
+[2026-07-23T02:29:50.601362+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_009.wav
+[2026-07-23T02:29:50.601362+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_010.wav
+[2026-07-23T02:29:50.602373+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_011.wav
+[2026-07-23T02:29:50.603371+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_012.wav
+[2026-07-23T02:29:50.603900+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_013.wav
+[2026-07-23T02:29:50.603900+00:00]     [CF_HDROP+DROPFILES] ... and 295 more
+[2026-07-23T02:44:49.959145+00:00] DROP method=SHCreateShellItemArrayFromDataObject count=1
+[2026-07-23T02:44:49.960660+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_008.wav
+[2026-07-23T02:44:49.961668+00:00] DROP method=CF_HDROP+DROPFILES count=1
+[2026-07-23T02:44:49.961668+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_300\spike_test_008.wav
+[2026-07-23T15:15:13.074776+00:00] server started pid=38396
+[2026-07-23T15:15:13.703836+00:00] DROP method=SHCreateShellItemArrayFromDataObject count=1000 elapsed=15.2ms
+[2026-07-23T15:15:13.704838+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0010.wav
+[2026-07-23T15:15:13.705836+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0011.wav
+[2026-07-23T15:15:13.705836+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0012.wav
+[2026-07-23T15:15:13.706837+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0013.wav
+[2026-07-23T15:15:13.707837+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0014.wav
+[2026-07-23T15:15:13.707837+00:00]     [SHCreateShellItemArrayFromDataObject] ... and 995 more
+[2026-07-23T15:15:13.708838+00:00] DROP method=CF_HDROP+DROPFILES count=1000 elapsed=15.0ms
+[2026-07-23T15:15:13.708838+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0010.wav
+[2026-07-23T15:15:13.709840+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0011.wav
+[2026-07-23T15:15:13.709840+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0012.wav
+[2026-07-23T15:15:13.710842+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0013.wav
+[2026-07-23T15:15:13.710842+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\AppData\Local\Temp\claude\c--Users-willi-Documents--Code-Repo-audio-dome-lite\87d9ddf7-3588-4373-8cff-74fde8ccd8f1\scratchpad\spike_scale\n_1000\spike_test_0014.wav
+[2026-07-23T15:15:13.711840+00:00]     [CF_HDROP+DROPFILES] ... and 995 more
+[2026-07-23T15:53:12.175439+00:00] server started pid=22160
+[2026-07-23T15:53:12.277418+00:00] DROP method=SHCreateShellItemArrayFromDataObject count=52 elapsed=30.4ms
+[2026-07-23T15:53:12.278942+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\mixed_types\mixed_test_07.wav
+[2026-07-23T15:53:12.278942+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\mixed_types\mixed_test_08.wav
+[2026-07-23T15:53:12.280471+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\mixed_types\mixed_test_09.wav
+[2026-07-23T15:53:12.280471+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\mixed_types\mixed_test_10.wav
+[2026-07-23T15:53:12.281480+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\mixed_types\mixed_test_11.wav
+[2026-07-23T15:53:12.281480+00:00]     [SHCreateShellItemArrayFromDataObject] ... and 47 more
+[2026-07-23T15:53:12.282483+00:00] DROP method=CF_HDROP+DROPFILES count=52 elapsed=3.2ms
+[2026-07-23T15:53:12.282483+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\mixed_types\mixed_test_07.wav
+[2026-07-23T15:53:12.283485+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\mixed_types\mixed_test_08.wav
+[2026-07-23T15:53:12.283485+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\mixed_types\mixed_test_09.wav
+[2026-07-23T15:53:12.284481+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\mixed_types\mixed_test_10.wav
+[2026-07-23T15:53:12.284481+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\mixed_types\mixed_test_11.wav
+[2026-07-23T15:53:12.285481+00:00]     [CF_HDROP+DROPFILES] ... and 47 more
+[2026-07-23T15:56:19.032338+00:00] DROP method=SHCreateShellItemArrayFromDataObject count=16 elapsed=18.9ms
+[2026-07-23T15:56:19.033794+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\cross_folder\cross_folder_b\shapetest_b_8.wav
+[2026-07-23T15:56:19.034769+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\cross_folder\cross_folder_b\shapetest_b_5.wav
+[2026-07-23T15:56:19.034769+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\cross_folder\cross_folder_b\shapetest_b_6.wav
+[2026-07-23T15:56:19.035771+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\cross_folder\cross_folder_b\shapetest_b_4.wav
+[2026-07-23T15:56:19.035771+00:00]     [SHCreateShellItemArrayFromDataObject] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\cross_folder\cross_folder_b\shapetest_b_2.wav
+[2026-07-23T15:56:19.036769+00:00]     [SHCreateShellItemArrayFromDataObject] ... and 11 more
+[2026-07-23T15:56:19.037771+00:00] DROP method=CF_HDROP+DROPFILES count=16 elapsed=0.4ms
+[2026-07-23T15:56:19.037771+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\cross_folder\cross_folder_b\shapetest_b_8.wav
+[2026-07-23T15:56:19.038772+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\cross_folder\cross_folder_b\shapetest_b_5.wav
+[2026-07-23T15:56:19.039772+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\cross_folder\cross_folder_b\shapetest_b_6.wav
+[2026-07-23T15:56:19.040707+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\cross_folder\cross_folder_b\shapetest_b_4.wav
+[2026-07-23T15:56:19.041217+00:00]     [CF_HDROP+DROPFILES] C:\Users\willi\Documents\_Code\Repo\audio-dome-lite\spike\shape_fixtures\cross_folder\cross_folder_b\shapetest_b_2.wav
+[2026-07-23T15:56:19.041766+00:00]     [CF_HDROP+DROPFILES] ... and 11 more
+[2026-07-23T16:00:31.353506+00:00] DROP method=SHCreateShellItemArrayFromDataObject count=5 elapsed=11.3ms
+[2026-07-23T16:00:31.354507+00:00]     [SHCreateShellItemArrayFromDataObject] \\192.168.4.213\nextcloud\spike_unc_test\spike_test_4.wav
+[2026-07-23T16:00:31.355688+00:00]     [SHCreateShellItemArrayFromDataObject] \\192.168.4.213\nextcloud\spike_unc_test\spike_test_5.wav
+[2026-07-23T16:00:31.355688+00:00]     [SHCreateShellItemArrayFromDataObject] \\192.168.4.213\nextcloud\spike_unc_test\spike_test_1.wav
+[2026-07-23T16:00:31.356691+00:00]     [SHCreateShellItemArrayFromDataObject] \\192.168.4.213\nextcloud\spike_unc_test\spike_test_2.wav
+[2026-07-23T16:00:31.357688+00:00]     [SHCreateShellItemArrayFromDataObject] \\192.168.4.213\nextcloud\spike_unc_test\spike_test_3.wav
+[2026-07-23T16:00:31.357688+00:00] DROP method=CF_HDROP+DROPFILES count=5 elapsed=0.5ms
+[2026-07-23T16:00:31.358687+00:00]     [CF_HDROP+DROPFILES] \\192.168.4.213\nextcloud\spike_unc_test\spike_test_4.wav
+[2026-07-23T16:00:31.359688+00:00]     [CF_HDROP+DROPFILES] \\192.168.4.213\nextcloud\spike_unc_test\spike_test_5.wav
+[2026-07-23T16:00:31.359688+00:00]     [CF_HDROP+DROPFILES] \\192.168.4.213\nextcloud\spike_unc_test\spike_test_1.wav
+[2026-07-23T16:00:31.360687+00:00]     [CF_HDROP+DROPFILES] \\192.168.4.213\nextcloud\spike_unc_test\spike_test_2.wav
+[2026-07-23T16:00:31.361687+00:00]     [CF_HDROP+DROPFILES] \\192.168.4.213\nextcloud\spike_unc_test\spike_test_3.wav
